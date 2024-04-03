@@ -6,4 +6,6 @@ To get started, simply navigate through the repository to find the Tableau workb
 
 Here are the links to view the visualizations on Tableau Public:
 
-Dashboard 1: https://public.tableau.com/app/profile/saurabh.rawat5144/viz/HouseSalesData_17118220407820/HouseSalesData 
+Dashboard 1: https://public.tableau.com/app/profile/saurabh.rawat5144/viz/HouseSalesData_17118220407820/HouseSalesData
+
+Dashboard 2: https://public.tableau.com/app/profile/saurabh.rawat5144/viz/BritishAirways_17121536003150/Dashboard1
