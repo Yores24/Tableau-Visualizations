@@ -6,7 +6,8 @@ To get started, simply navigate through the repository to find the Tableau workb
 
 # 
 ![House sales](HouseSalesViz-D1.png)
-![HR Dashboard](./HR Dashboard/Screenshot 2024-07-11 005906.png)
+![HR Dashboard](./HR_Dashboard/hr.png)
+![British Airways](./BritishAirways/d1.png)
 Here are the links to view the visualizations on Tableau Public:
 
 Dashboard 1: https://public.tableau.com/app/profile/saurabh.rawat5144/viz/HouseSalesData_17118220407820/HouseSalesData
